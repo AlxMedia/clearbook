@@ -56,6 +56,14 @@ body:where(.dark) .s2 .social-links li:before { background: rgba(255,255,255,0.1
 body:where(.dark) .s2 .social-links .social-tooltip:hover:after { background: #fff; color: #000; }
 body:where(.dark) .s2 .social-links .social-tooltip:hover:before { border-color: transparent #fff; }
 
+body:where(.dark) #profile:after { border-bottom: 1px solid rgba(255,255,255,0.06); }
+body:where(.dark) #profile-image { border: 1px solid rgba(255,255,255,0.06); }
+body:where(.dark) #profile-image img { border: 10px solid #111; }
+body:where(.dark) #profile-name { color: rgba(255,255,255,0.8); }
+body:where(.dark) #profile-description { color: rgba(255,255,255,0.6); }
+body:where(.dark) #profile-description a { color: rgba(255,255,255,0.9); }
+body:where(.dark) #profile-description a:hover { color: rgba(255,255,255,0.6); }
+
 @media only screen and (max-width: 719px) {
 	body:where(.dark) .search-expand .themeform.searchform div input { background: #111; border-bottom: 1px solid rgba(255,255,255,0.08)!important; }
 }
