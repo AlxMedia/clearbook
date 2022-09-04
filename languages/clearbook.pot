@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Clearbook\n"
-"POT-Creation-Date: 2022-09-04 10:56+0200\n"
+"POT-Creation-Date: 2022-09-04 11:00+0200\n"
 "PO-Revision-Date: 2018-09-21 21:27+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -792,18 +792,26 @@ msgid "Do not use with dark theme enabled"
 msgstr ""
 
 #: functions/theme-options.php:736
+msgid "Invert Dark Logo Color"
+msgstr ""
+
+#: functions/theme-options.php:737
+msgid "Change color for the logo in dark mode"
+msgstr ""
+
+#: functions/theme-options.php:745
 msgid "Header Color"
 msgstr ""
 
-#: functions/theme-options.php:744
+#: functions/theme-options.php:753
 msgid "Social Sidebar Color"
 msgstr ""
 
-#: functions/theme-options.php:752
+#: functions/theme-options.php:761
 msgid "Featured Background"
 msgstr ""
 
-#: functions/theme-options.php:760
+#: functions/theme-options.php:769
 msgid "Background Color"
 msgstr ""
 

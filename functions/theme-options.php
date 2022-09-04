@@ -729,6 +729,15 @@ Kirki::add_field( 'clearbook_theme', array(
 	'section'		=> 'styling',
 	'default'		=> 'on',
 ) );
+// Styling: Invert Dark Logo
+Kirki::add_field( 'clearbook_theme', array(
+	'type'			=> 'switch',
+	'settings'		=> 'invert-logo',
+	'label'			=> esc_html__( 'Invert Dark Logo Color', 'clearbook' ),
+	'description'	=> esc_html__( 'Change color for the logo in dark mode', 'clearbook' ),
+	'section'		=> 'styling',
+	'default'		=> 'on',
+) );
 // Styling: Header Color
 Kirki::add_field( 'clearbook_theme', array(
 	'type'			=> 'color',
