@@ -86,5 +86,8 @@ Sidebar images
 
 == Changelog ==
 
+= 1.0.1 - 2023-08-04 =
+* Updated to Font Awesome 6.4.2
+
 = 1.0.0 - 2022-09-01 =
 * Initial release
