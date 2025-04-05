@@ -3,6 +3,7 @@ body:where(.dark),
 body:where(.dark) a,
 body:where(.dark) a:hover { color: #fff; }
 body:where(.dark),
+body:where(.dark).boxed #wrapper,
 body:where(.dark) #header { background-color: #222; }
 body:where(.dark) .s1,
 body:where(.dark) .s2,
