@@ -8,7 +8,7 @@ Tags: blog, news, entertainment, one-column, two-columns, right-sidebar, left-si
 
 == Description ==
 
-Clearbook is a flexible blog theme with plenty of options. Optimized for all devices, this theme will stand out with a unique design. Set sidebar to the left or right - or no sidebar at all. Pick social sidebar colors, header color and featured posts background as you wish. You can also enable a light/dark theme toggle switch in the sidebar. Demo: http://demo.alx.media/x/?theme=Clearbook
+Clearbook is a flexible blog theme with plenty of options. Optimized for all devices, this theme will stand out with a unique design. Set sidebar to the left or right - or no sidebar at all. Pick social sidebar colors, header color and featured posts background as you wish. You can also enable a light/dark theme toggle switch in the sidebar. Demo: https://demo.agnarson.com/?theme=Clearbook
 
 == Installation ==
 
@@ -19,7 +19,7 @@ Clearbook is a flexible blog theme with plenty of options. Optimized for all dev
 
 == Documentation ==
 
-http://alx.media/documentation/
+https://agnarson.com/documentation/
 
 == Copyright ==
 
